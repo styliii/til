@@ -1,2 +1,2 @@
-# til
+# TIL
 an online notebook
