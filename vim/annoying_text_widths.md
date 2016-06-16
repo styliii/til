@@ -7,3 +7,5 @@ markdown file, I'm tired of constanly reformatting.  Added this snippet to my
 ```
 au BufRead,BufNewFile *.md setlocal textwidth=80
 ```
+
+Also, when you highlight a bunch of text `gq` will reformat it correctly.
